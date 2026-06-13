@@ -1,5 +1,5 @@
 {
-  "name": "@csgaglobal/time-zones",
+  "name": "@meok-ai-labs/time-zones",
   "version": "1.0.0",
   "description": "Time zone management with conversion, scheduling across zones, and meeting time optimization.",
   "main": "dist/index.js",
@@ -20,10 +20,10 @@
   "devDependencies": {
     "typescript": "^5.7.3"
   },
-  "author": "CSGA Global",
+  "author": "MEOK Labs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/csga-global/mcp-servers",
+    "url": "https://github.com/meok-ai/mcp-servers",
     "directory": "packages/time-zones"
   },
   "keywords": [
